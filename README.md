@@ -8,3 +8,6 @@
 3. Utilize cálculos diferentes para asoperações de crédito e débito
 4. O depósito em conta PJ deverá terum acréscimo de 1.5% a cada operação 
 5. E o saque na conta PF terá um desconto de 1.25%.
+
+
+## Resultados
