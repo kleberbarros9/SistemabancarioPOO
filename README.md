@@ -14,7 +14,7 @@
 
 <p align="center">
     <br>
-    <img src="./SistemaBancario/images/criacao.png" width=512px height=512px>
+    <img src="./images/criacao.png" width=512px height=512px>
     <h5 align="center">Figura 1 - Tela de cadastro de clientes.</h5>
     <br>
 </p>
